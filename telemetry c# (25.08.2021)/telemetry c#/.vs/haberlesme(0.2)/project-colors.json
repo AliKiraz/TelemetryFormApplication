@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "987ec9b0-5fca-47e9-989d-0573015dc0fa": {
+      "ProjectGuid": "987ec9b0-5fca-47e9-989d-0573015dc0fa",
+      "DisplayName": "haberlesme(0.2)",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Diğer Dosyalar",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
